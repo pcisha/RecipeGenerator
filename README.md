@@ -55,6 +55,8 @@ Upon a successful search, a new recipe will be displayed with its name, image, l
 Happy Cooking! 🍽️
 
 #
+Date: December 26, 2024
+
 Author: Prachi Shah @ https://pcisha.my.canva.site/
 
 P.S. The default copyright laws apply.
